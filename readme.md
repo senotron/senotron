@@ -1,6 +1,6 @@
 ## 🌟 About Me  
 
-Hi, I'm **Senan Shukurzade**, a developer passionate about creating impactful Discord bots and functional websites. My focus areas include:  
+Hi, I'm **Senan**, a developer passionate about creating impactful Discord bots and functional websites. My focus areas include:  
 - 🤖 **Discord Bot Development**: Building secure, user-friendly automation solutions for Discord servers.  
 - 🌐 **Website Creation**: Designing responsive and visually appealing web platforms.  
 
