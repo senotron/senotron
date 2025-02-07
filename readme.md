@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/senotron">
-    <img src="https://komarev.com/ghpvc/?username=perisicnikola37" alt="GitHub Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=senotron" alt="GitHub Followers"/>
   </a>
   <a href="https://senotron.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen" alt="Portfolio"/>
