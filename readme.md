@@ -65,7 +65,7 @@ I’m always excited to connect with fellow developers, exchange ideas, and expl
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&lines=Welcome+to+my+GitHub+profile!;Let's+create+something+amazing+together!;Keep+coding+and+stay+inspired!+💻" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&width=700&lines=senotron" alt="Typing SVG"/>
 </p>
 
 ---
