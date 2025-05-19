@@ -27,17 +27,14 @@ Hello there! I'm **senotron**, a creative developer passionate about building mo
 
 ## Featured Projects 🚀
 
+- **[Lugatify](https://lugatify.vercel.app)**  
+  Lugatify vasitəsilə Azərbaycan dilindəki hər hansı bir sözün izahını,sinonimlərini,antonimlərini,başqa mənalarını və nümunə olaraq işlədilmiş cümləni əldə edin.
+
 - **[MongoLens](https://mongolens.vercel.app)**  
   A user-friendly tool for visualizing MongoDB statistics and data insights 📊.
   
-- **[DESN Tools](https://desntools.vercel.app)**  
-  A suite of utilities that simplify complex tasks for developers and tech enthusiasts ⚙️.
-  
-- **[Module](https://www.npmjs.com/sennur)**  
-  An npm module that supercharges your Discord bot with entertaining and useful features 📦.
-  
-- **[Odunchu Bot](https://bit.ly/whisperbot)**  
-  An entertaining Discord bot designed to bring humor and interactivity to your server 🎉.
+- **[Word Games](https://wordgamesbot.vercel.app/)**  
+  The best word game bot that supports multiple languages!
 
 For more cool projects, check out my [GitHub repositories](https://github.com/senotron).
 
