@@ -47,7 +47,11 @@ For more cool projects, check out my [GitHub repositories](https://github.com/se
 ![Discord.js](https://img.shields.io/badge/Discord.js-v14-blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![npm](https://img.shields.io/badge/npm-6%2B-CB3837?logo=npm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-5%2B-47A248?logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+
 
 ---
 
