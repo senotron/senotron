@@ -4,7 +4,7 @@
   <a href="https://github.com/senotron">
     <img src="https://komarev.com/ghpvc/?username=senotron" alt="GitHub Followers"/>
   </a>
-  <a href="https://senotron.vercel.app">
+  <a href="https://senotron.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-brightgreen" alt="Portfolio"/>
   </a>
 </p>
@@ -60,9 +60,9 @@ For more cool projects, check out my [GitHub repositories](https://github.com/se
 
 I’m always excited to connect with fellow developers, exchange ideas, and explore collaboration opportunities!
 
-- **Portfolio:** [senotron.vercel.app](https://senotron.vercel.app)
+- **Portfolio:** [senotron](https://senotron.is-a.dev)
 - **GitHub:** [@senotron](https://github.com/senotron)
-- **Discord:** senotron
+- **Discord:** @senotron(840158550495723530)
 
 ---
 
