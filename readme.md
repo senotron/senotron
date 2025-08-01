@@ -11,7 +11,7 @@
 
 ---
 
-## About Me 😎
+## About Me
 
 Hello there! I'm **senotron**, a creative developer passionate about building modern web experiences and interactive Discord bots. I transform innovative ideas into reality with code and love experimenting with new technologies to craft something truly extraordinary.
 
